@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="developing" width="100%" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
+<img alt="developing" width="100%" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
   </p>
 <h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
 <h3 align="center">Atypical Newbie Developer | Exploring Life in √2 Ways | Student@DDIT</h3>
