@@ -1,4 +1,6 @@
-![]([https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif])
+<p align="center">
+<img alt="developing" width="100%" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
+  </p>
 <h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
 <h3 align="center">Atypical Newbie Developer | Exploring Life in √2 Ways | Student@DDIT</h3>
 <img align="right" alt="developing" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
