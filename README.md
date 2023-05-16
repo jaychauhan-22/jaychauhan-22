@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="developing" width="100%" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
   </p>
-<h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
+<h1 align="center"><img alt="hello" src="https://camo.githubusercontent.com/7c190f0e093c262f7f754a97a2975f29a8a6852f7a7fa3bef58392a0ae63b7d4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35372f35612f32302f35373561323039313864333439613335346363363336613064343962333561302e676966"><br> Its me Jay Chauhan !. </h1>
 <h3 align="center">Atypical Newbie Developer | Exploring Life in √2 Ways | Student@DDIT</h3>
 <img align="right" alt="developing" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
